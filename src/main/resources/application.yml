@@ -1,0 +1,7 @@
+server:
+    context-path: /horizonchart
+
+logging:
+    level:
+        org:
+            springframework: ERROR
